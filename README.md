@@ -8,5 +8,5 @@
 ```python3 -m pip install tinytuya```
 2. Любыми путями получаем ```local_key```, например при помощи [LocalTuyaKeyExtractor](https://github.com/HiveMindAutomation/LocalTuyaKeyExtractor) или [TuyaKeyExtractor](https://github.com/MarkWattTech/TuyaKeyExtractor)
 3. Заполняем поля в файле config.json
-4. Запускаем скрипт — ```python3 powerlogger.py```
+4. Запускаем скрипт — ```python3 power_logger.py```
 
