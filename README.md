@@ -4,8 +4,8 @@
 
 # Установка и использование
 
-1.Устанавливаем виртуальное окружение — ```python3 -m venv venv```
-2.Запускаем окружение — Linux/MacOS ```source venv/bin/activate```, Win ```venv\Scripts\activate.bat```
+1. Устанавливаем виртуальное окружение — ```python3 -m venv venv```
+2. Запускаем окружение — Linux/MacOS ```source venv/bin/activate```, Win ```venv\Scripts\activate.bat```
 2. Устанавливаем зависимости — ```python3 -m pip install -r requirements.txt```
 3. Любыми путями получаем ```local_key```, например при помощи [LocalTuyaKeyExtractor](https://github.com/HiveMindAutomation/LocalTuyaKeyExtractor) или [TuyaKeyExtractor](https://github.com/MarkWattTech/TuyaKeyExtractor)
 4. Заполняем поля в файле config.json
