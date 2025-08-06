@@ -1,5 +1,7 @@
 # Пишем логи с умной розетки Tuya
 
+Скрипт собран на основе библиотеки [TinyTuya](https://github.com/jasonacox/tinytuya)
+
 <img width="2634" height="1256" alt="CleanShot 2025-08-06 at 23 45 49@2x" src="https://github.com/user-attachments/assets/f57d2838-68a6-4d8b-90b2-f83aab0adf0f" />
 
 # Установка и использование
