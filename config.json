@@ -1,0 +1,7 @@
+{
+  "device_id": "вставить своё",
+  "ip": "вставить своё",
+  "local_key": "вставить своё",
+  "interval": 10,
+  "csv_file": "power_log.csv"
+}
